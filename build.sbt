@@ -8,5 +8,5 @@ libraryDependencies ++= Seq(
   "org.processing" % "core" % "3.2.3"
 )
 
-assemblyJarName in assembly := "Final_Hagans_Sagang.jar"
+assemblyJarName in assembly := "IDW.jar"
 mainClass in assembly := Some("ProcessingApp")

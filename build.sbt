@@ -1,4 +1,4 @@
-name := "M8ForGIS"
+name := "IDW"
 
 version := "1.0"
 
